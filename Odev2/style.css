@@ -1,0 +1,44 @@
+.container{
+	width:90%;
+	margin: 0 auto;
+	margin-bottom: 1px;
+}
+.bg-gray{
+	background: #EEE;
+}
+.part{
+	float: left;
+	margin: 1px;
+	line-height: normal;
+	font-size: medium;
+	vertical-align: center;
+	margin-bottom: 15px;
+	padding: 1px;
+}
+.part1{
+	background: #7EE5DA;
+	padding: 10px;
+	width: 36%;
+	height: 55px;
+
+}
+.part2{
+	background: #70CCC2;
+	padding: 8px;
+	width: 18%;
+	height: 55px;
+	font-size: small;
+	padding-bottom: 12px;
+}
+.part3{
+	background: #62B3AA;
+	
+	width: 43.4%;
+	height: 65px;
+	font-size: 13px;
+	padding-bottom: 10px;
+}
+input[type = "submit"]{
+	margin-left: 2px;
+	margin-right: 2px;
+}

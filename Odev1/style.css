@@ -1,0 +1,33 @@
+h1{
+	color: red;
+	text-align: center;
+}
+h3{
+	color: #CC9933;
+}
+nav{
+	font-size: 18pt;
+	font-weight: bold;
+}
+nav ul{
+	text-align: center;
+	}
+nav ul li{
+	display: inline-block;
+	margin: 15px;
+	list-style: none;
+}
+ul>li{
+	list-style-position: inside;
+}
+ol>li{
+	list-style-position: inside;
+}
+.sayfa-baslik{
+	text-align: center;
+	color: purple;
+	font-size: 32px;
+}
+p{
+	font-size: 16px;
+}
